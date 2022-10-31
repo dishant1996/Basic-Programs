@@ -1,0 +1,16 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\obj\Debug\Alphabet.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Basic Program\Alphabet\Alphabet\bin\Debug\Alphabet.pdb
